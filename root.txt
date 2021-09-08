@@ -1,8 +1,11 @@
 echo
 echo -e $RD"[#] Select your login type :"
 echo
-echo -e "[1] Root"
-echo -e "[2] Non-Root"
+echo -e "[#] Root"
+echo -e "[#] Non-Root"
+echo
+echo -e "[#] Enter 1 for root login.. "
+echo -e "[#] Press the Enter key for normal login..."
 read root
 echo
 if [ $root -eq 1 ]
