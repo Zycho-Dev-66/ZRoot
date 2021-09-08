@@ -7,12 +7,5 @@ read root
 echo
 if [ $root -eq 1 ]
 then
-	proot-distro login ubuntu	
-	echo -e "Login : Root"
-else
-	if [ $root -eq 2 ]
-		echo -e "Login : Non-Root"
-	else
-		echo -e "Invalid Input"
-	fi
+	proot-distro login ubuntu
 fi
