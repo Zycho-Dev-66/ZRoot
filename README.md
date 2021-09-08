@@ -11,13 +11,13 @@ Developed and Maintained by FAKE ✘ SMILE
 
 වැඩේ ඉක්මනට කරගන්න ඕන අය මේ ලයින් එක කොපි කරල ටර්මක්ස් එකේ පේස්ට් කරල එන්ටර් ගහන්න
 
-git clone  && cd ZRoot && chmod +x * && bash ZRoot.sh
+git clone https://github.com/Codemaster-xvi/ZRoot && cd ZRoot && chmod +x * && bash ZRoot.sh
 
 :wink: Command list
 
 බැක්සයිඩ් එකේ ඉත්තෑවො ඉන්න අය කමාන්ඩ් එකින් එක ගැහුවට කමක් නෑ ඉතිම් 😂
 
-git clone
+git clone https://github.com/Codemaster-xvi/ZRoot
 
 cd ZRoot
 
