@@ -1,6 +1,7 @@
 #ZRoot Tool By Fake✘Smile
 #Zyntax™
-#bash
+#!/bin/bash
+
 #DO NOT STEAL MY SCRIPT YOU BLOODY F*CKER 😒
 
 RD='\e[1;31m'
@@ -154,7 +155,7 @@ else
         echo -e $RD "Type (proot-distro login ubuntu) for custom root login"
 fi
 echo
-echo -e $GR "ZRoot v 1.1 by FAKE SMILE"
+echo -e $GR "ZRoot v 1.2 by FAKE SMILE"
 
 cd $HOME
 rm -rf ZRoot
