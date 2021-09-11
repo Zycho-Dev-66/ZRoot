@@ -1,6 +1,10 @@
 # ZRoot
 A simple tool for obtaining root access in termux.
 
+:relieved:
+Version 1.2 relased with 5 custom OS types for creating fake root.
+:relieved:
+
 Developed and Maintained by FAKE ✘ SMILE
 
 :heart: ZYNTAX™ :heart:
@@ -29,7 +33,6 @@ bash ZRoot.sh
 
 😘 Next version - Features
 - Login Password
-- Arch Linux , Debian , Fedora and more..
 
 😘 Stay in touch with us
 
