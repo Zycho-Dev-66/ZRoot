@@ -46,7 +46,7 @@ echo
 echo -e $GR "[ 0 ] Ubuntu 20.04"
 echo -e $GR "[ 1 ] Alpine Linux 3.14.1"
 echo -e $GR "[ 2 ] Arch Linux"
-echo -e $GR "[ 3 ] Debain
+echo -e $GR "[ 3 ] Debain"
 echo -e $GR "[ 4 ] Fedora"
 echo -e $GR "[ 5 ] Void Linux"
 echo
