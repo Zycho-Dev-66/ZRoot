@@ -9,6 +9,12 @@ Developed and Maintained by FAKE ✘ SMILE
 
 :heart: ZYNTAX™ :heart:
 
+# Requirements
+
+:wink: git package
+
+pkg install git -y
+
 # Instructions
 
 :wink: One Line Command
