@@ -11,7 +11,7 @@ Developed and Maintained by FAKE ✘ SMILE
 
 # Requirements
 
-:wink: git package
+:wink: Git Package
 
 pkg install git -y
 
