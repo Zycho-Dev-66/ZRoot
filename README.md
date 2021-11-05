@@ -1,17 +1,16 @@
 # ZRoot
-A simple tool for obtaining root access in termux.
+- A simple tool for obtaining root access in termux.
+- Developed and Maintained by Zycho-Dev
 
-:relieved:
-Version 1.2 relased with 5 custom OS types for creating fake root.
-:relieved:
+[![banner](https://telegra.ph/file/dcddc1e84c5631110a4a1.png)]
 
-Developed and Maintained by Zycho-Dev
+- Version 1.2 relased with 5 custom OS types for creating fake root.
 
 :heart: ZYNTAX™ :heart:
 
 # Requirements
 
-:wink: Git Package
+- Git Package
 
 ```bash
 pkg install git -y
@@ -46,12 +45,12 @@ bash ZRoot.sh
 ```
 # Updates
 
-😘 Next version - Features
-- Login Password
+- 😘 Next version - Features
+    -  Login Password
 
-😘 Stay in touch with us
+- 😘 Stay in touch with us
 
-😘 follow me
+- 😘 follow me
 
 :heart: Stay Safe :heart:
 
