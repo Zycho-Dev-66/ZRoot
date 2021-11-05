@@ -2,16 +2,16 @@
 
 - A simple tool for obtaining root access in termux.
 - Developed and Maintained by <a href=https://t.me/Zycho_66>Zycho-Dev</a>
+- Version 1.2 relased with 5 custom OS types for creating fake root.
 
-![banner](https://telegra.ph/file/dcddc1e84c5631110a4a1.png)
+:heart: ZYNTAX™ :heart:
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/Zycho-Dev-66/ZRoot?utm_source=github.com&utm_medium=referral&utm_content=Zycho-Dev-66/ZRoot&utm_campaign=Badge_Grade_Settings)
 [![Python 3.8.6](https://img.shields.io/badge/Bash-blue.svg)](https://www.gnu.org/software/bash/)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Zycho-Dev-66/ZRoot)
 
-- Version 1.2 relased with 5 custom OS types for creating fake root.
 
-:heart: ZYNTAX™ :heart:
+![banner](https://telegra.ph/file/dcddc1e84c5631110a4a1.png)
 
 # Requirements
 
