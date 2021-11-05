@@ -2,7 +2,7 @@
 - A simple tool for obtaining root access in termux.
 - Developed and Maintained by Zycho-Dev
 
-[banner](https://telegra.ph/file/dcddc1e84c5631110a4a1.png)
+![banner](https://telegra.ph/file/dcddc1e84c5631110a4a1.png)
 
 - Version 1.2 relased with 5 custom OS types for creating fake root.
 
