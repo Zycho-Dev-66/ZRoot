@@ -1,6 +1,7 @@
 # ZRoot
+
 - A simple tool for obtaining root access in termux.
-- Developed and Maintained by Zycho-Dev
+- Developed and Maintained by <a href=https://t.me/Zycho_66>Zycho-Dev</a>
 
 ![banner](https://telegra.ph/file/dcddc1e84c5631110a4a1.png)
 
@@ -47,6 +48,7 @@ bash ZRoot.sh
 
 - 😘 Next version - Features
     -  Login Password
+    -  More Distros
 
 - 😘 Stay in touch with us
 
