@@ -22,6 +22,7 @@ pkg install git -y
 වැඩේ ඉක්මනට කරගන්න ඕන අය මේ ලයින් එක කොපි කරල ටර්මක්ස් එකේ පේස්ට් කරල එන්ටර් ගහන්න
 
 '''
+
 $git clone https://github.com/Zycho-Dev-66/ZRoot && cd ZRoot && chmod +x * && bash ZRoot.sh
 
 '''
