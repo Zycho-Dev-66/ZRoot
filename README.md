@@ -25,7 +25,7 @@ pkg install git -y
 
 ```bash
 
-$git clone https://github.com/Zycho-Dev-66/ZRoot && cd ZRoot && chmod +x * && bash ZRoot.sh
+git clone https://github.com/Zycho-Dev-66/ZRoot && cd ZRoot && chmod +x * && bash ZRoot.sh
 
 ```
 
@@ -35,13 +35,13 @@ $git clone https://github.com/Zycho-Dev-66/ZRoot && cd ZRoot && chmod +x * && ba
 
 ```bash
 
-$git clone https://github.com/Zycho-Dev-66/ZRoot
+git clone https://github.com/Zycho-Dev-66/ZRoot
 
-$cd ZRoot
+cd ZRoot
 
-$chmod +x *
+chmod +x *
 
-$bash ZRoot.sh
+bash ZRoot.sh
 
 ```
 # Updates
