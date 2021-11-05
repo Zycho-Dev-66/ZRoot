@@ -23,6 +23,7 @@ pkg install git -y
 
 '''
 $git clone https://github.com/Zycho-Dev-66/ZRoot && cd ZRoot && chmod +x * && bash ZRoot.sh
+
 '''
 
 :wink: Command list
@@ -30,6 +31,7 @@ $git clone https://github.com/Zycho-Dev-66/ZRoot && cd ZRoot && chmod +x * && ba
 බැක්සයිඩ් එකේ ඉත්තෑවො ඉන්න අය කමාන්ඩ් එකින් එක ගැහුවට කමක් නෑ ඉතිම් 😂
 
 '''
+
 $git clone https://github.com/Zycho-Dev-66/ZRoot
 
 $cd ZRoot
@@ -37,7 +39,9 @@ $cd ZRoot
 $chmod +x *
 
 $bash ZRoot.sh
+
 '''
+
 # Updates
 
 😘 Next version - Features
