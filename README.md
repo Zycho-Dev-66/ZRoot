@@ -5,6 +5,10 @@
 
 ![banner](https://telegra.ph/file/dcddc1e84c5631110a4a1.png)
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/Zycho-Dev-66/ZRoot?utm_source=github.com&utm_medium=referral&utm_content=Zycho-Dev-66/ZRoot&utm_campaign=Badge_Grade_Settings)
+[![Python 3.8.6](https://img.shields.io/badge/Bash-blue.svg)](https://www.gnu.org/software/bash/)
+![GitHub repo size](https://img.shields.io/github/repo-size/Zycho-Dev-66/ZRoot)
+
 - Version 1.2 relased with 5 custom OS types for creating fake root.
 
 :heart: ZYNTAX™ :heart:
@@ -44,7 +48,7 @@ chmod +x *
 bash ZRoot.sh
 
 ```
-# Updates
+# Upcoming Updates
 
 - 😘 Next version - Features
     -  Login Password
@@ -55,6 +59,12 @@ bash ZRoot.sh
 - 😘 follow me
 
 :heart: Stay Safe :heart:
+
+# Stats of the project
+
+<p align="left"><a href="https://github.com/Zycho-Dev-66/ZRoot/network/members"><img src="https://img.shields.io/github/forks/Zycho-Dev-66/ZRoot?label=Forks&logoColor=pink&style=social"></a>
+<p align="left"><a href="https://github.com/Zycho-Dev-66/ZRoot/stargazers"><img src="https://img.shields.io/github/stars/Zycho-Dev-66/ZRoot?logoColor=red&style=social"></a>
+<p align="left"><a href="https://github.com/Zycho-Dev-66/ZRoot"><img src="https://img.shields.io/github/last-commit/Zycho-Dev-66/ZRoot?style=plastic"></a>
 
 # Credits
 
