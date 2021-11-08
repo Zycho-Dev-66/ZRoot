@@ -11,4 +11,6 @@ echo
 if [ $root -eq 1 ]
 then
 	proot-distro login ubuntu
+else
+        clear
 fi
